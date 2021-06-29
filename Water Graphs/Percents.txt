@@ -1,0 +1,2 @@
+Public Supply	Domestic*	Irrigation	Livestock	Aquaculture	Self-supplied Industrial	Mining	Thermoelectric Power
+-7	-8	2	0	-16	-8	1	-18
